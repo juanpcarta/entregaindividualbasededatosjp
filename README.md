@@ -6,7 +6,7 @@ La confección del trabajo individual fue confeccionada de la siguiente forma:
 
 1° Se elaboró el Diagrama Relacional en la página Dynobird.com, tal cual se vio en clases. Se tomaron en cuenta los constraints que el enunciado establecía. Desde esta página a su vez se exportó el código SQL.
 
-2° Dado que el código SQL exportado de la páguna Dynobird solo contiene el código para crear las tablas (no contiene el código de creación de la base de datos), se crea en forma manual una base de datos en Dbeaver con el nombre del proyecto.
+2° Dado que el código SQL exportado de la página Dynobird solo contiene el código para crear las tablas (no contiene el código de creación de la base de datos), se crea en forma manual una base de datos en Dbeaver con el nombre del proyecto.
 
 3° Se crea un script enlazado a la base de datos rencientemente creada y se copia allí el código traído de Dynobird. Luego se lo ejecuta.
 
