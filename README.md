@@ -2,7 +2,7 @@
 Trabajo Individual: Base de datos
 
 
-La confección del trabajo individual fue confeccionada de la siguiente forma:
+La confección del trabajo individual fue realizada de la siguiente forma:
 
 1° Se elaboró el Diagrama Relacional en la página Dynobird.com, tal cual se vio en clases. Se tomaron en cuenta los constraints que el enunciado establecía. Desde esta página a su vez se exportó el código SQL.
 
